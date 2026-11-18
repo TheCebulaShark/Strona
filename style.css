@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, Verdana,  sans-serif; /* Rodzina czcionek */
+    font-size: 11pt; /* Rozmiar głównej czcionki w <p></p>  */
+    background-color: #f0f0f0; /* Kolor tła strony internetowej */
+    color: #333; /* Kolor tekstu */ 
+}
+h1 {
+    color: #00a800; /* Kolor nagłówka */
+    font-size: 24pt; /* Rozmiar czcionki nagłówka */
+    font-family: Georgia, Times, serif; /* Rodzina czcionek używana w nagłówku */
+}
